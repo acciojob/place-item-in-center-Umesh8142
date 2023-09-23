@@ -4,9 +4,10 @@
 	width:100px;
 	height:100px;
 	background-color: red;
+	display:flex;
 }
 .holder{
-	display:block;
+	display:flex;
 	width: 100vw;
     height: 100vh;
 	align-items: center;
